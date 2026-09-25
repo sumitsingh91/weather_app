@@ -3,7 +3,7 @@
 // ==========================================
 
 // Replace this with your actual API key
-const API_KEY = "1f94f192820a3be008d87f364e7a38cc";
+const API_KEY = "API_KEY";
 
 
 // ==========================================
